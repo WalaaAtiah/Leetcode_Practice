@@ -16,3 +16,12 @@ And Mainly to run codes that require so much time separately.
 You need to install the following extensions:
 
 install **Jupyter** :   [https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+
+
+
+## whiteboard for first challenge (Roman to Integer)
+
+![Roman to Integer](./lab03%20whiteboard.png)
+
+## pull request link :
+[link]()
